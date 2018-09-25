@@ -1,11 +1,14 @@
 _repo: Villipeto_57338
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The abysmal brute. Finnish
 contributor:
   translator:
     agent_name: Korpela, Maunu
     gutenberg_agent_id: '49325'
     url: http://www.gutenberg.org/2009/agents/49325
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: London, Jack
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/120
     wikipedia: http://en.wikipedia.org/wiki/Jack_London
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57338#Villipeto
 gutenberg_issued: '2018-06-16'
 gutenberg_type: Text
 identifiers:
